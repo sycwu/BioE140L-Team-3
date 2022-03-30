@@ -1,0 +1,152 @@
+LOCUS       ispA__str__NCTC7        1300 bp    DNA        linear       30-MAR-2022
+DEFINITION  Streptococcus pneumoniae strain NCTC7978 genome assembly, contig:
+            ERS1037093SCcontig000004, whole genome shotgun sequence.
+ACCESSION   CABEEG010000004 REGION: 1222332..1223631
+VERSION     CABEEG010000004.1
+DBLINK      BioProject: PRJEB6403 BioSample: SAMEA3729944
+KEYWORDS    WGS.
+SOURCE      Streptococcus pneumoniae
+  ORGANISM  Streptococcus pneumoniae Bacteria; Firmicutes; Bacilli;
+            Lactobacillales; Streptococcaceae; Streptococcus.
+REFERENCE   1
+  CONSRTM   Pathogen Informatics
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2019) WTSI, Pathogen Informatics, Wellcome Trust
+            Sanger Institute, CB10 1SA, United Kingdom
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          1..1300
+                     /organism="Streptococcus pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="NCTC7978"
+                     /serovar="serotype 3"
+                     /isolation_source="not available: not collected"
+                     /db_xref="taxon:1313"
+                     /note="contig: ERS1037093SCcontig000004"
+                     /locus_tag="contig: ERS1037093SCcontig000004"
+                     /label="contig: ERS1037093SCcontig000004"
+                     /ApEinfo_label="contig: ERS1037093SCcontig000004"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     gene            complement(1..176)
+                     /gene="dxs"
+                     /locus_tag="NCTC7978_02619"
+                     /label="NCTC7978_02619"
+                     /ApEinfo_label="NCTC7978_02619"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(1..176)
+                     /gene="dxs"
+                     /EC_number="2.2.1.7"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:RefSeq:YP_006034123.1"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="1-deoxy-D-xylulose-5-phosphate synthase"
+                     /protein_id="VTQ31134.1"
+                     /translation="MSFDIAKYPTLALVDSTQELRLLPKESLPKLCDELRRYLLDSVS
+                     RSSGHFASGLGTVELTVALHYVYNTPFDQLIWDVGHQAYPHKILTGRRDKIGTIRQKG
+                     GLHPFPWRGESEYDVLSVGHSSTSISAGIGIAVAAEKEGKNRRTVCVIGDGAITAGMA
+                     FEAMNHAGDIRPDMLVVLNDNEMSISENVGALNNHLAQLLSGKLYSSLREGGKKVFSG
+                     VPPIKELLKRTEEHIKGMVVPGTLFEELGFNYIGPVDGHDVLGLITTLKNMRDLKGPQ
+                     FLHIMTKKGRGYEPAEKDPITFHAVPKFDPSSGCLPKSSGGLPSYSKIFGDWLCETAA
+                     KDNKLMAITPAMREGSGMVEFSRKFPDRYFDVAIAEQHAVTFAAGLAIGGYKPIVAIY
+                     STFLQRAYDQVLHDVAIQKLPVLFAIDRAGIVGADGQTHQGAFDLSYLRCIPEMVIMT
+                     PSDENECRQMLYTGYHYNDGPSAVRYPRGNAVGVELTPLEKLPIGKGIVKRRGEKLAI
+                     LNFGTLMPDAAKVAESLNATLVDMRFVKPLDEALILEMAASHEALVTVEENAIMGGAG
+                     SGVNEVLMAHRKPVPVLNIGLPDFFIPQGTQEEMRAELGLDAAGMEAKIKAWLA"
+                     /locus_tag="NCTC7978_02619(1)"
+                     /label="NCTC7978_02619(1)"
+                     /ApEinfo_label="NCTC7978_02619"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            complement(201..1100)
+                     /gene="ispA"
+                     /locus_tag="NCTC7978_02620"
+                     /label="NCTC7978_02620"
+                     /ApEinfo_label="NCTC7978_02620"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(201..1100)
+                     /gene="ispA"
+                     /EC_number="2.5.1.10"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:RefSeq:YP_006489831.1"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="farnesyl diphosphate synthase"
+                     /protein_id="VTQ31136.1"
+                     /translation="MDFPQQLEACVKQANQALSRFIAPLPFQNTPVVETMQYGALLGG
+                     KRLRPFLVYATGHMFGVSTNTLDAPAAAVECIHAYSLIHDDLPAMDDDDLRRGLPTCH
+                     VKFGEANAILAGDALQTLAFSILSDANMPEVSDRDRISMISELASASGIAGMCGGQAL
+                     DLDAEGKHVPLDALERIHRHKTGALIRAAVRLGALSAGDKGRRALPVLDKYAESIGLA
+                     FQVQDDILDVVGDTATLGKRQGADQQLGKSTYPALLGLEQARKKARDLIDDARQSLKQ
+                     LAEQSLDTSALEALADYIIQRNK"
+                     /locus_tag="ispA"
+                     /label="ispA"
+                     /ApEinfo_label="ispA"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            complement(1100..1300)
+                     /gene="xseB"
+                     /locus_tag="NCTC7978_02621"
+                     /label="NCTC7978_02621"
+                     /ApEinfo_label="NCTC7978_02621"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(1100..1300)
+                     /gene="xseB"
+                     /EC_number="3.1.11.6"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:RefSeq:YP_002745995.1"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="VTQ31138.1"
+                     /translation="MPKKNEAPASFEKALSELEQIVTRLESGDLPLEEALNEFERGVQ
+                     LARQGQAKLQQAEQRVQILLSDNEDASLTPFTPDNE"
+                     /locus_tag="NCTC7978_02621(1)"
+                     /label="NCTC7978_02621(1)"
+                     /ApEinfo_label="NCTC7978_02621"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 agttcgaccg tgcccagccc ggaggcgaag tgcccgctgg aacggctcac gctgtcgagt
+       61 aaatagcggc gcagttcgtc gcagagtttc ggtaaactct ctttcggcaa cagtcgtaac
+      121 tcctgggtgg agtcgaccag tgccagggtc gggtatttgg caatatcaaa actcatcagg
+      181 ggcctattaa tacttattgt ttatttatta cgctggatga tgtagtccgc tagcgcttcc
+      241 agtgccgagg tatcgagtga ttgttcagcc agttgtttca gcgactggcg ggcatcgtcg
+      301 atcagatccc gggctttctt ccgggcttgc tcaagaccca gaagtgcagg gtaggtactt
+      361 ttaccaagtt gctgatcggc accctggcgt tttcccaacg ttgcagtatc tcctaccaca
+      421 tccaggatgt catcttgaac ctggaaggca aggccgatgc tctctgcgta cttgtcgagt
+      481 actggcagag cacgacgccc tttatctccg gcgcttaatg caccaaggcg aacggcggcg
+      541 cgaatcaatg cgccggtttt atgacgatga atacgctcaa gcgcgtccag aggtacgtgt
+      601 ttgccttccg cgtctaaatc taatgcctga ccaccgcaca ttccggcaat accgctggcg
+      661 ctcgccagtt cagaaatcat cgaaattctg tcgcgatccg acacttccgg catattggca
+      721 tcgcttagaa tcgagaacgc cagcgtttgt aaagcgtcgc cagcgagaat cgcgtttgct
+      781 tcgccaaact tcacatggca ggtcggcaaa ccgcgacgca gatcgtcatc atccatcgcc
+      841 ggtaaatcat catgaattaa tgagtaagcg tggatacact ctacggcggc agcgggtgcg
+      901 tccagcgtgt ttgtgctaac gccgaacata tgaccggtgg cataaaccag aaaaggtcgc
+      961 aggcgcttac cacctaataa tgcgccatac tgcatggttt cgaccacggg agtgttctga
+     1021 aagggcagtg gggcgataaa acggctcagc gcctggttgg cctgcttaac gcaggcttcg
+     1081 agttgctgcg gaaagtccat tactcattgt ccggtgtaaa aggggttaga gaggcgtctt
+     1141 cattgtcaga cagcagaatt tgtacgcgct gttcggcttg ttgtaatttg gcctgcccct
+     1201 gacgtgccag ctgcacgccg cgttcgaact cgttcagcgc ctcttccagc ggcaggtcgc
+     1261 cactttccag acgggttaca atctgttcca gctcgctcag  
+//

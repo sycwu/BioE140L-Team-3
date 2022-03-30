@@ -1,0 +1,110 @@
+LOCUS       pcrpdt                   956 bp    DNA        linear       30-MAR-2022
+DEFINITION  Streptococcus pneumoniae strain NCTC7978 genome assembly, contig:
+            ERS1037093SCcontig000004, whole genome shotgun sequence.
+ACCESSION   CABEEG010000004 REGION: 1222332..1223631
+VERSION     CABEEG010000004.1
+DBLINK      BioProject: PRJEB6403 BioSample: SAMEA3729944
+KEYWORDS    WGS.
+SOURCE      Streptococcus pneumoniae
+  ORGANISM  Streptococcus pneumoniae Bacteria; Firmicutes; Bacilli;
+            Lactobacillales; Streptococcaceae; Streptococcus.
+REFERENCE   1
+  CONSRTM   Pathogen Informatics
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2019) WTSI, Pathogen Informatics, Wellcome Trust
+            Sanger Institute, CB10 1SA, United Kingdom
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          complement(17..940)
+                     /organism="Streptococcus pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="NCTC7978"
+                     /serovar="serotype 3"
+                     /isolation_source="not available: not collected"
+                     /db_xref="taxon:1313"
+                     /note="contig: ERS1037093SCcontig000004"
+                     /locus_tag="contig: ERS1037093SCcontig000004"
+                     /label="contig: ERS1037093SCcontig000004"
+                     /ApEinfo_label="contig: ERS1037093SCcontig000004"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     gene            41..940
+                     /gene="ispA"
+                     /locus_tag="NCTC7978_02620"
+                     /label="NCTC7978_02620"
+                     /ApEinfo_label="NCTC7978_02620"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            17..41
+                     /gene="xseB"
+                     /locus_tag="NCTC7978_02621"
+                     /label="NCTC7978_02621"
+                     /ApEinfo_label="NCTC7978_02621"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             17..41
+                     /gene="xseB"
+                     /EC_number="3.1.11.6"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:RefSeq:YP_002745995.1"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="VTQ31138.1"
+                     /translation="MPKKNEAPASFEKALSELEQIVTRLESGDLPLEEALNEFERGVQ
+                     LARQGQAKLQQAEQRVQILLSDNEDASLTPFTPDNE"
+                     /locus_tag="NCTC7978_02621(1)"
+                     /label="NCTC7978_02621(1)"
+                     /ApEinfo_label="NCTC7978_02621"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             41..940
+                     /gene="ispA"
+                     /EC_number="2.5.1.10"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:RefSeq:YP_006489831.1"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="farnesyl diphosphate synthase"
+                     /protein_id="VTQ31136.1"
+                     /translation="MDFPQQLEACVKQANQALSRFIAPLPFQNTPVVETMQYGALLGG
+                     KRLRPFLVYATGHMFGVSTNTLDAPAAAVECIHAYSLIHDDLPAMDDDDLRRGLPTCH
+                     VKFGEANAILAGDALQTLAFSILSDANMPEVSDRDRISMISELASASGIAGMCGGQAL
+                     DLDAEGKHVPLDALERIHRHKTGALIRAAVRLGALSAGDKGRRALPVLDKYAESIGLA
+                     FQVQDDILDVVGDTATLGKRQGADQQLGKSTYPALLGLEQARKKARDLIDDARQSLKQ
+                     LAEQSLDTSALEALADYIIQRNK"
+                     /locus_tag="ispA"
+                     /label="ispA"
+                     /ApEinfo_label="ispA"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 ccataGGTCT CaTAACccct tttacaccgg acaatgagta atggactttc cgcagcaact
+       61 cgaagcctgc gttaagcagg ccaaccaggc gctgagccgt tttatcgccc cactgccctt
+      121 tcagaacact cccgtggtcg aaaccatgca gtatggcgca ttattaggtg gtaagcgcct
+      181 gcgacctttt ctggtttatg ccaccggtca tatgttcggc gttagcacaa acacgctgga
+      241 cgcacccgct gccgccgtag agtgtatcca cgcttactca ttaattcatg atgatttacc
+      301 ggcgatggat gatgacgatc tgcgtcgcgg tttgccgacc tgccatgtga agtttggcga
+      361 agcaaacgcg attctcgctg gcgacgcttt acaaacgctg gcgttctcga ttctaagcga
+      421 tgccaatatg ccggaagtgt cggatcgcga cagaatttcg atgatttctg aactggcgag
+      481 cgccagcggt attgccggaa tgtgcggtgg tcaggcatta gatttagacg cggaaggcaa
+      541 acacgtacct ctggacgcgc ttgagcgtat tcatcgtcat aaaaccggcg cattgattcg
+      601 cgccgccgtt cgccttggtg cattaagcgc cggagataaa gggcgtcgtg ctctgccagt
+      661 actcgacaag tacgcagaga gcatcggcct tgccttccag gttcaagatg acatcctgga
+      721 tgtggtagga gatactgcaa cgttgggaaa acgccagggt gccgatcagc aacttggtaa
+      781 aagtacctac cctgcacttc tgggtcttga gcaagcccgg aagaaagccc gggatctgat
+      841 cgacgatgcc cgccagtcgc tgaaacaact ggctgaacaa tcactcgata cctcggcact
+      901 ggaagcgcta gcggactaca tcatccagcg taataaataa ACAAtGAGAC Cccata
+//
