@@ -1,0 +1,148 @@
+LOCUS       pcrpdt                   956 bp    DNA        linear       30-MAR-2022
+DEFINITION  Shigella flexneri 2a str. 2457T, complete genome.
+ACCESSION   AE014073 REGION: 368509..369808
+VERSION     AE014073.1
+DBLINK      BioProject: PRJNA408 BioSample: SAMN02604096
+KEYWORDS    .
+SOURCE      Shigella flexneri 2a str. 2457T
+  ORGANISM  Shigella flexneri 2a str. 2457T Bacteria; Proteobacteria;
+            Gammaproteobacteria; Enterobacterales; Enterobacteriaceae;
+            Shigella.
+REFERENCE   1  (bases 1 to 1300)
+  AUTHORS   Wei,J., Goldberg,M.B., Burland,V., Venkatesan,M.M., Deng,W.,
+            Fournier,G., Mayhew,G.F., Plunkett,G. III, Rose,D.J., Darling,A.,
+            Mau,B., Perna,N.T., Payne,S.M., Runyen-Janecky,L.J., Zhou,S.,
+            Schwartz,D.C. and Blattner,F.R.
+  TITLE     Complete genome sequence and comparative genomics of Shigella
+            flexneri serotype 2a strain 2457T
+  JOURNAL   Infect. Immun. 71 (5), 2775-2786 (2003)
+   PUBMED   12704152
+  REMARK    Erratum:[Infect Immun. 2003 Jul;71(7):4223]
+REFERENCE   2  (bases 1 to 1300)
+  AUTHORS   Wei,J., Goldberg,M.B., Burland,V., Venkatesan,M.M., Deng,W.,
+            Fournier,G., Mayhew,G.F., Plunkett,G. III, Rose,D.J., Darling,A.,
+            Mau,B., Perna,N.T., Payne,S.M., Runyen-Janecky,L.J., Zhou,S.,
+            Schwartz,D.C. and Blattner,F.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUN-2002) Genetics Laboratory, University of
+            Wisconsin - Madison, 445 Henry Mall, Madison, WI 53706, USA
+COMMENT     On or before Jan 27, 2006 this sequence version replaced
+            AE016978.1, AE016979.1, AE016980.1, AE016981.1, AE016982.1,
+            AE016983.1, AE016984.1, AE016985.1, AE016986.1, AE016987.1,
+            AE016988.1, AE016989.1, AE016990.1, AE016991.1, AE016992.1,
+            AE016993.1.
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          complement(17..940)
+                     /organism="Shigella flexneri 2a str. 2457T"
+                     /mol_type="genomic DNA"
+                     /strain="2457T"
+                     /serotype="2a"
+                     /db_xref="taxon:198215"
+                     /locus_tag="source:Shigella flexneri 2a str. 2457T"
+                     /label="source:Shigella flexneri 2a str. 2457T"
+                     /ApEinfo_label="source:Shigella flexneri 2a str. 2457T"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     gene            41..940
+                     /gene="ispA"
+                     /old_locus_tag="S_0366"
+                     /locus_tag="S0366"
+                     /label="S0366"
+                     /ApEinfo_label="S0366"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            17..41
+                     /gene="xseB"
+                     /old_locus_tag="S_0367"
+                     /locus_tag="S0367"
+                     /label="S0367"
+                     /ApEinfo_label="S0367"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             17..41
+                     /gene="xseB"
+                     /old_locus_tag="S_0367"
+                     /note="enzyme; Degradation of DNA; residues 1 to 80 of 80
+                     are 100.00 pct identical to residues 1 to 80 of 80 from
+                     Escherichia coli K-12 : B0422"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="exonuclease VII, small subunit"
+                     /protein_id="AAP15893.1"
+                     /translation="MPKKNEAPASFEKALSELEQIVTRLESGDLPLEEALNEFERGVQ
+                     LARQGQAKLQQAEQRVQILLSDNEDASLTPFTPDNE"
+                     /locus_tag="S0367(1)"
+                     /label="S0367(1)"
+                     /ApEinfo_label="S0367"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             41..940
+                     /gene="ispA"
+                     /old_locus_tag="S_0366"
+                     /note="enzyme; Biosynthesis of cofactors, carriers:
+                     Menaquinone, ubiquinone; residues 1 to 299 of 299 are
+                     95.98 pct identical to residues 1 to 299 of 299 from
+                     Escherichia coli K-12 : B0421"
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="geranyltranstransferase (farnesyldiphosphate
+                     synthase)"
+                     /protein_id="AAP15892.1"
+                     /translation="MDFPQQLEACVKQANQALSRFIAPLPFQNTPVVETMQYGALLGG
+                     KRLRPFLVYATGHMFGVSTNTLDAPAAAVECIHAYSLIHDDLPAMDDDDLRRGLPTCH
+                     VKFGEANAILAGDALQTLAFSILSDANMPEVSDRDRISMISELASASGIAGMCGGQAL
+                     DLDAEGKHVPLDALERIHRHKTGALIRAAVRLGALSAGDKGRRALPVLDKYAESIGLA
+                     FQVQDDILDVVGDTATLGKRQGADQQLGKSTYPALLGLEQARKKARDLIDDARQALKQ
+                     LAEQSLDTSALEALADYIIQRNK"
+                     /locus_tag="ispA"
+                     /label="ispA"
+                     /ApEinfo_label="ispA"
+                     /ApEinfo_fwdcolor="#6b42cc"
+                     /ApEinfo_revcolor="#6b42cc"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     restriction_sitejoin(6..11,13..16)
+                     /locus_tag="BsaI"
+                     /label="BsaI"
+                     /ApEinfo_label="BsaI"
+                     /ApEinfo_fwdcolor="#c9cc9d"
+                     /ApEinfo_revcolor="#c9cc9d"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     restriction_sitecomplement(join(941..944,946..951))
+                     /locus_tag="BsaI(1)"
+                     /label="BsaI(1)"
+                     /ApEinfo_label="BsaI"
+                     /ApEinfo_fwdcolor="#c9cc9d"
+                     /ApEinfo_revcolor="#c9cc9d"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 ccataGGTCT CaTAACccct tttacaccgg acaatgagta atggactttc cgcagcaact
+       61 cgaagcctgc gttaagcagg ccaaccaggc gctgagccgt tttatcgccc cactgccctt
+      121 tcagaacact cccgtggtcg aaaccatgca gtatggcgca ttattaggtg gtaagcgcct
+      181 gcgacctttc ctggtttatg ccaccggtca tatgtttggc gttagcacaa acacgctgga
+      241 cgcacccgct gctgccgtag agtgtatcca cgcttactca ttaattcatg atgatttacc
+      301 ggcgatggat gatgacgatc tgcgtcgcgg tttgccgacc tgccatgtga agtttggcga
+      361 agcaaacgcg attctcgctg gcgacgcttt acaaacgctg gcgttctcga ttctaagcga
+      421 tgccaatatg ccggaagtgt cggatcgcga cagaatttcg atgatttctg aactggcgag
+      481 cgccagcggt attgccggaa tgtgcggtgg tcaggcatta gatttagacg cggaaggcaa
+      541 acacgtacct ctggacgcgc ttgagcgtat tcatcgtcat aaaaccggcg cattgattcg
+      601 cgccgccgtt cgccttggtg cattaagcgc cggagataaa gggcgtcgtg ctctgccagt
+      661 actcgacaag tacgcagaga gcatcggcct tgccttccag gttcaggatg acatcctgga
+      721 tgtggtagga gatactgcaa cgttgggaaa acgccagggt gccgaccagc aacttggtaa
+      781 aagtacctac cctgcacttc tgggtcttga gcaagcccgg aagaaagccc gggatctgat
+      841 cgacgatgcc cgtcaggcgc tgaaacaact ggctgaacag tcactcgata cctcggcact
+      901 ggaagcgcta gcggactaca tcatccagcg taataaataa ACAAtGAGAC Cccata
+//
