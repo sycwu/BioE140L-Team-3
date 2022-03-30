@@ -1,0 +1,165 @@
+LOCUS       pcrpdt                   977 bp    DNA        linear       30-MAR-2022
+DEFINITION  Yersinia pseudotuberculosis strain FDAARGOS_579 chromosome,
+            complete genome.
+ACCESSION   CP033717 REGION: 1644356..1645676
+VERSION     CP033717.1
+DBLINK      BioProject: PRJNA231221 BioSample: SAMN10228559
+KEYWORDS    .
+SOURCE      Yersinia pseudotuberculosis
+  ORGANISM  Yersinia pseudotuberculosis Bacteria; Proteobacteria;
+            Gammaproteobacteria; Enterobacterales; Yersiniaceae; Yersinia.
+REFERENCE   1  (bases 1 to 1321)
+  AUTHORS   Bliska,J., Cleland,M.-M., Tallon,L., Sadzewicz,L., Zhao,X.,
+            Vavikolanu,K., Mehta,A., Aluvathingal,J., Nadendla,S., Yan,Y. and
+            Sichtig,H.
+  TITLE     FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS):
+            Supporting development and validation of Infectious Disease Dx
+            tests
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1321)
+  AUTHORS   Bliska,J., Cleland,M.-M., Tallon,L., Sadzewicz,L., Zhao,X.,
+            Vavikolanu,K., Mehta,A., Aluvathingal,J., Nadendla,S., Yan,Y. and
+            Sichtig,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-NOV-2018) Center for Devices and Radiological Health,
+            US Food and Drug Administration, 10903 New Hampshire Avenue, Silver
+            Spring, MD 20993-0002, USA
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            ##Genome-Assembly-Data-START## Assembly Method       :: Canu v. 1.7
+            Genome Coverage       :: 1059.69754234043x Sequencing Technology ::
+            PacBio; Illumina ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START## Annotation Provider
+            :: NCBI Annotation Date                   :: 11/14/2018 13:49:12
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+            Annotation Pipeline Annotation Method                 ::
+            Best-placed reference protein
+            set; GeneMarkS+ Annotation Software revision      :: 4.6 Features
+            Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+            repeat_region Genes (total)                     :: 4,404 CDS
+            (total)                       :: 4,289 Genes (coding)
+            :: 4,103 CDS (coding)                      :: 4,103 Genes (RNA)
+            :: 115 rRNAs                             :: 8, 7, 7 (5S, 16S, 23S)
+            complete rRNAs                    :: 8, 7, 7 (5S, 16S, 23S) tRNAs
+            :: 80 ncRNAs                            :: 13 Pseudo Genes (total)
+            :: 186 Pseudo Genes (ambiguous residues) :: 0 of 186 Pseudo Genes
+            (frameshifted)       :: 82 of 186 Pseudo Genes (incomplete)
+            :: 110 of 186 Pseudo Genes (internal stop)      :: 25 of 186 Pseudo
+            Genes (multiple problems)  :: 30 of 186 CRISPR Arrays
+            :: 2 ##Genome-Annotation-Data-END##
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          17..961
+                     /organism="Yersinia pseudotuberculosis"
+                     /mol_type="genomic DNA"
+                     /strain="FDAARGOS_579"
+                     /serotype="serogroup III"
+                     /host="Homo sapiens"
+                     /culture_collection="FDA:FDAARGOS_579"
+                     /db_xref="taxon:633"
+                     /country="France"
+                     /collected_by="BEI < JB Bliska"
+                     /note="Clinical Isolate"
+                     /locus_tag="Clinical Isolate"
+                     /label="Clinical Isolate"
+                     /ApEinfo_label="Clinical Isolate"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     gene            17..36
+                     /locus_tag="EGX53_08230"
+                     /label="EGX53_08230"
+                     /ApEinfo_label="EGX53_08230"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             17..36
+                     /EC_number="3.1.11.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_002348080.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="2"
+                     /transl_table="11"
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="AYW99859.1"
+                     /translation="MPKKAASPEIKAASFETSLSELEQIVTRLESGELPLEDALNEFE
+                     RGVQLVRQGQQTLLQAEQRVQILLSDDVDAPLKPFTPDTE"
+                     /locus_tag="EGX53_08230(1)"
+                     /label="EGX53_08230(1)"
+                     /ApEinfo_label="EGX53_08230"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            41..961
+                     /locus_tag="EGX53_08235"
+                     /label="EGX53_08235"
+                     /ApEinfo_label="EGX53_08235"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             41..961
+                     /EC_number="2.5.1.10"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_002348081.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="(2E,6E)-farnesyl diphosphate synthase"
+                     /protein_id="AYW99860.1"
+                     /translation="MSDTHAPVDFKQQLAAHQQRVNQALLDFIAPLPFGNSNLIEAMR
+                     YGAVIGGKRLRPYLVYATGQMFGLSFANLDAPAAAIECIHAYSLIHDDLPAMDDDDLR
+                     RGQPTCHVKFGEAHAILAGDALQTLAFSILAEAPMPDVADKDRLSMIIELAQASGAAG
+                     MCAGQALDLEAETRPVLLGDLEQIHRHKTGALIRAAVRLGALAAGEAGRKTLLSLDRY
+                     AEAIGLAFQVQDDILDVIGDTATIGKRQGSDQQLGKSTYPALLGLDCAQTKAMDLYQE
+                     ALEALDELAKQSYNTDSLQALARFIIERNN"
+                     /locus_tag="ispA"
+                     /label="ispA"
+                     /ApEinfo_label="ispA"
+                     /ApEinfo_fwdcolor="#ff80ff"
+                     /ApEinfo_revcolor="#ff80ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     restriction_sitejoin(197..202,204..207)
+                     /locus_tag="BsmBI"
+                     /label="BsmBI"
+                     /ApEinfo_label="BsmBI"
+                     /ApEinfo_fwdcolor="#c959ff"
+                     /ApEinfo_revcolor="#c959ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     restriction_site541..546
+                     /locus_tag="BglII"
+                     /label="BglII"
+                     /ApEinfo_label="BglII"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 ccataGGTCT CaTAACttac cccagatact gagtagcctt atgtcggata cccatgcacc
+       61 tgttgatttt aaacaacaac ttgccgctca tcagcagcga gtcaatcagg ctctgctgga
+      121 tttcattgct cccctgccgt ttggcaatag caatttaatc gaggccatgc gctatggtgc
+      181 ggtaatcggg ggtaagcgtc tccgccccta tctggtctat gccacagggc aaatgtttgg
+      241 tttgtcattc gccaacttag acgccccggc ggcggcaatt gaatgtattc atgcctattc
+      301 attaatacat gatgatctgc ccgccatgga cgatgatgat ttacgccgtg ggcagccgac
+      361 ttgccacgtt aagtttggcg aggcccacgc tattttggcc ggtgatgcac tgcaaacgct
+      421 ggccttttct attttggctg aagcccccat gcccgatgtc gctgataaag atcgcctatc
+      481 gatgattatc gagttggctc aagccagtgg ggctgcgggg atgtgtgcgg gtcaggcgct
+      541 agatctggaa gcagaaactc gccctgtttt attaggtgac cttgagcaaa tccaccgtca
+      601 taaaaccggt gcgttgattc gtgcggcagt tcgccttggc gccctggcag ccggtgaagc
+      661 tggccgtaaa acattattgt cactcgatcg ttacgccgag gccatcggtt tagcctttca
+      721 agtccaggac gatattttag acgtcattgg cgacacagct acaattggta aacgtcaagg
+      781 ctcagaccaa caactaggca aaagtactta tccggcgcta cttggtctgg attgtgccca
+      841 aacaaaagcg atggatcttt atcaggaggc actagaggcc ttggatgaat tggcaaaaca
+      901 gtcctataac acggattcat tgcaggcatt agctcgtttc attattgagc gtaataatta
+      961 aACAAtGAGA CCccata    
+//
