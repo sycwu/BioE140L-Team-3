@@ -1,0 +1,37 @@
+LOCUS       S__marcescens_pc         971 bp    DNA        linear       10-APR-2022
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    38..955
+                     /locus_tag="cds"
+                     /label="cds"
+                     /ApEinfo_label="cds"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 ccataGGTCT CaTAACagga gttaacgtca tacgttaatt gtcgcgttca ataatgaagc
+       61 tggctaacgc tcgcaatggc gctgtgttgt aagattgcgc tgccaaagtg tctaatgcag
+      121 ctaatgcttc ctgatagaga tcccacgctt ttgctttcgc gctgtcaagc ccgagcaacg
+      181 ccgggtaggt actctttccg tgttgttggt ccgcgccctg gcgcttgccg atcttttcag
+      241 tctcgccgac aacgtccaaa atgtcatctt gcacctggaa cgccaggcca accgcggcgg
+      301 cgtagcgatc cagctgcggc agcgccgctc gcccggcttc gccggcgctc agcgcgccca
+      361 ggcgcaccgc cgcgcggatc agcgcgccgg ttttgtggcg gtggatctgc tccagcgcct
+      421 gcaggtcgac gtgcttgcct tcggcctcca gatccagcga ttggccgccg cacatgccgg
+      481 ctacgccgct ggcgctcgcc agttcggaaa ccatcgccag ccgatcgcgc agcgccacgt
+      541 caggcatttc ggcatcggcc aggatcgaaa acgccagcgt ttgcagcgca tcgccggcca
+      601 ggatcgcgtt ggcttcgccg aatttaatgt gacaggtcgg ctggccacgg cgcagatcgt
+      661 cgtcgtccat cgccggcaga tcgtcatgga tcagcgagta ggcgtggatg cattccaccg
+      721 ccgccgccgg cgcgtccagg ttgctcagcg acacgccgaa catctggccg gtggtgtaca
+      781 ccaggaacgg acgcagacgc ttgccgccca gcaaggcgcc gtgacgcatc gccgccacca
+      841 tgttgccgtc gttgaacggc agcggggcga tgaagtccag cagcgcgcga tcggcgcgct
+      901 ggcggaaaat ctgcagttga tcggcaaaag cggccgatgg ggcgatctca gacatACAAt
+      961 GAGACCccat a    
+//

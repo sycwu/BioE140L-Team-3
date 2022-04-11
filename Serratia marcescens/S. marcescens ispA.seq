@@ -1,0 +1,41 @@
+LOCUS       New_DNA                 1318 bp    DNA        linear       10-APR-2022
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    201..1118
+                     /locus_tag="cds"
+                     /label="cds"
+                     /ApEinfo_label="cds"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="green"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 ccagcccgga ggcaaagtgg ccgctggagc ggctgacgct gttcagcaga tattgccgca
+       61 gctcatcgca cagcttcggc aagctctctt tgggcagtga gcggagttcc tcggggtttt
+      121 ccgctagcgc cagggttggg tatttggcta tatcaagact cattcgatac tcatatcaga
+      181 ggagttaacg tcatacgtta attgtcgcgt tcaataatga agctggctaa cgctcgcaat
+      241 ggcgctgtgt tgtaagattg cgctgccaaa gtgtctaatg cagctaatgc ttcctgatag
+      301 agatcccacg cttttgcttt cgcgctgtca agcccgagca acgccgggta ggtactcttt
+      361 ccgtgttgtt ggtccgcgcc ctggcgcttg ccgatctttt cagtctcgcc gacaacgtcc
+      421 aaaatgtcat cttgcacctg gaacgccagg ccaaccgcgg cggcgtagcg atccagctgc
+      481 ggcagcgccg ctcgcccggc ttcgccggcg ctcagcgcgc ccaggcgcac cgccgcgcgg
+      541 atcagcgcgc cggttttgtg gcggtggatc tgctccagcg cctgcaggtc gacgtgcttg
+      601 ccttcggcct ccagatccag cgattggccg ccgcacatgc cggctacgcc gctggcgctc
+      661 gccagttcgg aaaccatcgc cagccgatcg cgcagcgcca cgtcaggcat ttcggcatcg
+      721 gccaggatcg aaaacgccag cgtttgcagc gcatcgccgg ccaggatcgc gttggcttcg
+      781 ccgaatttaa tgtgacaggt cggctggcca cggcgcagat cgtcgtcgtc catcgccggc
+      841 agatcgtcat ggatcagcga gtaggcgtgg atgcattcca ccgccgccgc cggcgcgtcc
+      901 aggttgctca gcgacacgcc gaacatctgg ccggtggtgt acaccaggaa cggacgcaga
+      961 cgcttgccgc ccagcaaggc gccgtgacgc atcgccgcca ccatgttgcc gtcgttgaac
+     1021 ggcagcgggg cgatgaagtc cagcagcgcg cgatcggcgc gctggcggaa aatctgcagt
+     1081 tgatcggcaa aagcggccga tggggcgatc tcagacatgt cggttactcg gcatccggtg
+     1141 tgaaaggcgc cagcgccgca tcgtcggcgc tgtcgttaag aagtatctgc acacgctgtt
+     1201 ccgcctgttg cagtttctgc tggccttggc gcgccagctg cacgccgcgt tcgaattcgt
+     1261 tcagcgcgtc ttccagcggc agttcgcccg actccagacg cgtcacgatg ctttccag
+//
