@@ -7,10 +7,10 @@ kigkrqgadq qhgkstypal lgldsakaka wdlyqealaa ldtlaaqsyn taplralasf
 iierdn
 Link: https://www.ncbi.nlm.nih.gov/protein/WP_004940379.1?from=1&to=306
 
-PCR sMispA-F/sMispA-R on S. marcescens gDNA	(971bp, pcrpdt)
+PCR sMispA-F/sMispA-R on S. marcescens gDNA	        (971bp, pcrpdt)
 PCR o1/o2 on pLYC73S					(14896 bp, back)
 assemble pcrpdt, back					(BsaI, pLYC73S-yPispA) 
-transform pLYC73S-yPispA					(Mach1, Amp)
+transform pLYC73S-yPispA				(Mach1, Amp)
 -----------------------------------------
 > sMispA-F   Cloning of sMispA
 ccataGGTCTCaTAACaggagttaacgtcatacgtt
