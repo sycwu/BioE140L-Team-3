@@ -1,0 +1,4 @@
+sMispA-F	ccataGGTCTCaTAACaggagttaacgtcatacgtt	Cloning of sMispA
+sMispA-R	tatggGGTCTCaTTGTatgtctgagatcgccccatc	Cloning of sMispA
+o1	ccataGGTCTCaACAATAAGTATTAATAGGCCCCTGATGAGTTTTGATGACGGCA	25nm	STD	Construction of pLYC73S backbone
+o2	ccataGGTCTCaGTTAGAGAGGGCTGCTTGAACCCA	25nm	STD	Construction of pLYC73S backbone
