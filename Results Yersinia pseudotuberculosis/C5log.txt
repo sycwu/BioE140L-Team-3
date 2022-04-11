@@ -1,0 +1,23 @@
+WARNING:  File data_paths.txt is missing
+WARNING:  Error parsing 'default_features'
+Parsing experiment directory: E:\ALL FILES\Spring 2022\BioE140L\BioE140L Team 3\Experiment Yersinia pseudotuberculosis
+Extracting sequences from: E:\ALL FILES\Spring 2022\BioE140L\BioE140L Team 3\Experiment Yersinia pseudotuberculosis\.DS_Store
+Parsing construction file: E:\ALL FILES\Spring 2022\BioE140L\BioE140L Team 3\Experiment Yersinia pseudotuberculosis\Construction of pLYC73S-sFispA.txt
+Extracting sequences from: E:\ALL FILES\Spring 2022\BioE140L\BioE140L Team 3\Experiment Yersinia pseudotuberculosis\ispA oligos.txt
+Added oligo:	sFispA-F	ccataGGTCTCaTAACcccttttacaccggacaatgag
+Added oligo:	sFispA-R	tatggGGTCTCaTTGTttatttattacgctggatgatgtagt
+Added oligo:	yPispA-F	ccataGGTCTCaTAACttaccccagatactgagtagcc
+Added oligo:	yPispA-R	tatggGGTCTCaTTGTttaattattacgctcaataatgaaacgagc
+Added oligo:	o1	ccataGGTCTCaACAATAAGTATTAATAGGCCCCTGATGAGTTTTGATGACGGCA
+Added oligo:	o2	ccataGGTCTCaGTTAGAGAGGGCTGCTTGAACCCA
+Extracting sequences from: E:\ALL FILES\Spring 2022\BioE140L\BioE140L Team 3\Experiment Yersinia pseudotuberculosis\pLYC73S.seq
+Added plasmid:	pLYC73S of length 15796
+Extracting sequences from: E:\ALL FILES\Spring 2022\BioE140L\BioE140L Team 3\Experiment Yersinia pseudotuberculosis\YpseugDNA.seq
+Added plasmid:	YpseugDNA of length 1321
+Simulating construction file for product: pLYC73S-yPispA
+Simulating PCR (o1,o2,template(s),pdt): yPispA-F, yPispA-R, YpseugDNA, pcrpdt
+Simulating PCR (o1,o2,template(s),pdt): o1, o2, pLYC73S, back
+Simulating Assembly of pcrpdt, back for product pLYC73S-yPispA
+Simulating Transformation of pLYC73S-yPispA
+pLYC73S-yPispA successfully simulated!!!
+--> -->  Success!!

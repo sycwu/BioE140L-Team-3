@@ -1,0 +1,3 @@
+PCR ohol1/ohol4 on pLys9-B2 (B18)
+Assemble B18 (BsaI, pLys18B)
+Transform pLys18B (Mach1, Amp)
