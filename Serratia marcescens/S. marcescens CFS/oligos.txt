@@ -1,0 +1,4 @@
+sMispA-F	ccataGGTCTCaTAACaggagttaacgtcatacgtt	Cloning of sMispA
+sMispA-R	tatggGGTCTCaTTGTatgtctgagatcgccccatc	Cloning of sMispA
+o1	ccataGGTCTCaACAATAAGTATTAATAGGCCCCTG	Forward BsaI for pLYC73S template
+o2	ccataGGTCTCaGTTAGAGAGGGCTGCTTGAACCCA	Reverse BsaI for pLYC73S template

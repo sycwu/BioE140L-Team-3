@@ -1,0 +1,7 @@
+PCR sMispA-F/sMispA-R on ispA	        		(971bp, pcrpdt)
+PCR o1/o2 on pLYC73S					(14896 bp, back)
+assemble pcrpdt, back					(BsaI, pLYC73S-sMispA) 
+transform pLYC73S-sMispA				(Mach1, Amp)
+
+
+
