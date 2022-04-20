@@ -1,0 +1,191 @@
+LOCUS       Citrobacter             1400 bp    DNA        linear       20-APR-2022
+DEFINITION  Citrobacter sp. Y3 chromosome, complete genome.
+ACCESSION   CP050009 REGION: 1425875..1427274
+VERSION     CP050009.1
+DBLINK      BioProject: PRJNA611923 BioSample: SAMN14352213
+KEYWORDS    .
+SOURCE      Citrobacter sp. Y3
+  ORGANISM  Citrobacter sp. Y3 Bacteria; Proteobacteria; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Citrobacter; unclassified
+            Citrobacter.
+REFERENCE   1  (bases 1 to 1400)
+  AUTHORS   Peng,X.
+  TITLE     Genomic, Proteomic, and Metabolic Characterization of
+            Hexabromocyclododecane (HBCD)-degrading Bacteria Citrobacter sp. Y3
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1400)
+  AUTHORS   Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2020) School of Environmental Science and
+            Engineering, Sun Yat-Sen University, No.132, East Outer Ring Road,
+            Guangzhou, Guangdong 510006, China
+COMMENT     The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            ##Genome-Assembly-Data-START## Assembly Method        :: SMTR
+            portal latest version v. 2.0 Genome Representation  :: Full
+            Expected Final Version :: Yes Genome Coverage        :: 20.0x
+            Sequencing Technology  :: PacBio RS ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START## Annotation Provider
+            :: NCBI Annotation Date                   :: 03/13/2020 00:36:59
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+            Annotation Pipeline (PGAP) Annotation Method                 ::
+            Best-placed reference protein
+            set; GeneMarkS-2+ Annotation Software revision      :: 4.11
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+            repeat_region Genes (total)                     :: 5,208 CDSs
+            (total)                      :: 5,092 Genes (coding)
+            :: 4,981 CDSs (with protein)               :: 4,981 Genes (RNA)
+            :: 116 rRNAs                             :: 8, 7, 7 (5S, 16S, 23S)
+            complete rRNAs                    :: 8, 7, 7 (5S, 16S, 23S) tRNAs
+            :: 83 ncRNAs                            :: 11 Pseudo Genes (total)
+            :: 111 CDSs (without protein)            :: 111 Pseudo Genes
+            (ambiguous residues) :: 0 of 111 Pseudo Genes (frameshifted)
+            :: 40 of 111 Pseudo Genes (incomplete)         :: 72 of 111 Pseudo
+            Genes (internal stop)      :: 20 of 111 Pseudo Genes (multiple
+            problems)  :: 19 of 111 ##Genome-Annotation-Data-END##
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          1..1400
+                     /organism="Citrobacter sp. Y3"
+                     /mol_type="genomic DNA"
+                     /strain="Y3"
+                     /isolation_source="Contaminated sludge"
+                     /db_xref="taxon:2716879"
+                     /country="China: Huizhou"
+                     /collection_date="22-Aug-2015"
+                     /locus_tag="source:Citrobacter sp. Y3"
+                     /label="source:Citrobacter sp. Y3"
+                     /ApEinfo_label="source:Citrobacter sp. Y3"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     gene            complement(1..173)
+                     /gene="dxs"
+                     /locus_tag="HAP28_06725"
+                     /label="HAP28_06725"
+                     /ApEinfo_label="HAP28_06725"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(1..173)
+                     /gene="dxs"
+                     /EC_number="2.2.1.7"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:NP_459417.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="1-deoxy-D-xylulose-5-phosphate synthase"
+                     /protein_id="QIO38754.1"
+                     /translation="MSFDIAKYPTLALVDSTQELRLLPKESLPKLCDELRRYLLDSVS
+                     RSSGHFASGLGTVELTVALHYVYNTPFDQLIWDVGHQAYPHKILTGRRDKIGTIRQKG
+                     GLHPFPWRGESEYDVLSVGHSSTSISAGIGVAVAAEKEGKDRRTVCVIGDGAITAGMA
+                     FEAMNHAGDIKPDMLVILNDNEMSISENVGALNNHLAQLLSGKLYSSLREGGKKVFSG
+                     VPPIKELLKRTEEHIKGMVVPGTLFEELGFNYIGPVDGHDVLGLITTLKNMRDLKGPQ
+                     FLHIMTKKGRGYEPAEKDPITFHAVPKFDPSSGCLPKSSGGLPSYSKIFGDWLCETAA
+                     KDSKLMAITPAMREGSGMVEFSRKFPDRYFDVAIAEQHAVTFAAGLAIGGYKPVVAIY
+                     STFLQRAYDQVIHDVAIQKLPVMFAIDRAGIVGADGQTHQGAFDLSYLRCIPDMVIMT
+                     PSDENECRQMLFTGYHYSDGPTAVRYPRGNAVGVELRPLEKLPIGKGVVKRRGEKLAI
+                     LNFGTLMPDAAKVAESLNATLVDMRFVKPLDEALILEMAACHEVLVTLEENAIMGGAG
+                     SGVNEVLMAHRKPVPVLNIGLPDFFIPQGTQDEARAGLGLDAAGIEAKIKAWLA"
+                     /locus_tag="HAP28_06725(1)"
+                     /label="HAP28_06725(1)"
+                     /ApEinfo_label="HAP28_06725"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            complement(201..1100)
+                     /gene="ispA"
+                     /locus_tag="HAP28_06730"
+                     /label="HAP28_06730"
+                     /ApEinfo_label="HAP28_06730"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(201..1100)
+                     /gene="ispA"
+                     /EC_number="2.5.1.10"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:NP_414955.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="(2E,6E)-farnesyl diphosphate synthase"
+                     /protein_id="QIO38755.1"
+                     /translation="MDFSQQLQACVEQANQALSRFIAPLPFQNTPVVETMQYGALLGG
+                     KRLRPFLVYATGQMFGISLNTLDAPAAAVECIHAYSLIHDDLPAMDDDDLRRGLPTCH
+                     VKFGEANAILAGDALQTLAFSIISDAPMPEVADRDRIAMISELASASGIAGMCGGQAL
+                     DLDAEGKQVPLEALEKIHRHKTGALIRAAVRLGALSAGEKGRNALPILDKYAESIGLA
+                     FQVQDDILDVVGDTATLGKRQGADQQLGKSTYPALLGLEQARNKARDLIAEARQSLNQ
+                     LAAQSLDTSALEALADYIIQRNK"
+                     /locus_tag="HAP28_06730(1)"
+                     /label="HAP28_06730(1)"
+                     /ApEinfo_label="HAP28_06730"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            complement(1101..1343)
+                     /gene="xseB"
+                     /locus_tag="HAP28_06735"
+                     /label="HAP28_06735"
+                     /ApEinfo_label="HAP28_06735"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(1101..1343)
+                     /gene="xseB"
+                     /EC_number="3.1.11.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_015571292.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="QIO38756.1"
+                     /translation="MAKKNEAPVSFETSLNELEQIVTRLESGDLPLEEALNEFERGVQ
+                     LARQGQVKLQQAEQRVQILLSDNEDASPTPFTADNE"
+                     /locus_tag="HAP28_06735(1)"
+                     /label="HAP28_06735(1)"
+                     /ApEinfo_label="HAP28_06735"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 tcgaccgtgc ccagcccgga ggcgaagtgt ccgctggaac gactgacgct gtcgagtaaa
+       61 tagcggcgca gttcgtcgca gagtttcggc agactctctt ttggtagcag tcgtaactcc
+      121 tgggtggagt cgaccagtgc cagggtaggg tatttggcga tatcaaaact catcagaggc
+      181 ctttaagtaa gacagagtgt ttatttatta cgctggatta tgtagtccgc tagcgcttcc
+      241 agtgccgagg tatcgagtga ctgtgcggcc agttggttta gcgactggcg agcctctgcg
+      301 attaaatccc gggctttatt ccgggcttgc tcaaggccca gaagtgcagg ataggtactt
+      361 ttgccaagct gctgatcggc gccctgacgt ttacccaacg ttgcagtatc gcccaccaca
+      421 tccagaatgt catcctgaac ctggaatgcc agaccgatac tttctgcgta tttgtcgagt
+      481 attggcagtg catttctgcc tttttctccg gcacttaacg cccccaggcg aaccgcggcg
+      541 cgaatcaacg cgcccgtctt atgacgatgg attttctcca gcgcctccag cggcacctgt
+      601 ttaccttcgg cgtcgagatc cagcgcctga ccaccgcaca ttccggcgat gccactggcg
+      661 ctcgccagct cggaaatcat tgcgattcga tcgcggtcag caacttccgg catcggggcg
+      721 tcgctgataa tcgagaatgc cagcgtttgc agggcatcac ccgccagaat cgcattggcc
+      781 tcgccaaact tgacgtgaca ggtcggcagg ccgcgacgca gatcgtcatc gtccattgca
+      841 ggcagatcgt catggatcag cgagtaagca tgaatgcact caacggcggc tgccggggca
+      901 tccagcgtgt tcaggctgat accaaacatc tgaccggtgg catacaccag aaacggacgc
+      961 agacgtttac cgcctaataa tgcgccatac tgcatggttt cgaccacggg agtgttctga
+     1021 aagggcagtg gggcaataaa acggctcagc gcctggttgg cctgctcgac gcaggcctga
+     1081 agctgctgcg aaaaatccat ttactcgtta tccgctgtaa aaggcgtagg ggatgcgtct
+     1141 tcattgtcag acagcagaat ttgcacacgc tgttcagcct gttgcaattt cacctgaccc
+     1201 tgacgtgcca gctgcacgcc acgttcgaat tcgttcagcg cctcttccag cggcagatcg
+     1261 ccactttcca gacgcgttac aatttgctcc agctcgttca gcgacgtttc aaagctgacc
+     1321 ggcgcctcat ttttcttcgc cataataaat gtcggactct cagtattttc agccctgata
+     1381 tggtaacgga ctcagagcaa    
+//
