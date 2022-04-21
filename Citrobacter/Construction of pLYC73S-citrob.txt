@@ -1,0 +1,4 @@
+PCR o14/o15 on pLYC73S (b80)
+PCR o16/o17 on Citrobacter (ispA)
+Assemble b80,ispA (BsaI, pLYC73S-citrob)
+Transform pLYC73S-citrob (Mach1, Amp)
