@@ -1,4 +1,4 @@
 o14	ccataGGTCTCaACAATAAGTATTAATAGGCCCCTG	25nm	STD	Construction of pLYC73S-citrob lib
-o15	ccataGGTCTCaGTTAGAGAGGGCTGCTTGAACCCA		25nm	STD	Construction of pLYC73S-citrob lib
+o15	ccataGGTCTCaGTTAGAGAGGGCTGCTTGAACCCA	25nm	STD	Construction of pLYC73S-citrob lib
 o16	ccaaaGGTCTCaTAACttacagcggataacgagtaa	25nm	STD	Construction of pLYC73S-citrob lib
 o17	gctagGGTCTCaTTGTttactttaagtaagacagagtgt	25nm	STD	Construction of pLYC73S-citrob lib
