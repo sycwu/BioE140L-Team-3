@@ -1,0 +1,4 @@
+PCR pAispA-F/pAispA-R on PaeruginosaDNA (pcrpdt)
+PCR o1/o2 on pLYC73S (back)
+Assemble pcrpdt, back (BsaI, pLYC73S-pAispA) 
+Transform pLYC73S-pAispA (Mach1, Amp)

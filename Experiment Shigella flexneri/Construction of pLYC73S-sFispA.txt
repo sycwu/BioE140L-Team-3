@@ -1,4 +1,4 @@
 PCR sFispA-F/sFispA-R on SflexnerigDNA (pcrpdt)
 PCR o1/o2 on pLYC73S (back)
 Assemble pcrpdt, back (BsaI, pLYC73S-sFispA) 
-transform pLYC73S-sFispA (Mach1, Amp)
+Transform pLYC73S-sFispA (Mach1, Amp)

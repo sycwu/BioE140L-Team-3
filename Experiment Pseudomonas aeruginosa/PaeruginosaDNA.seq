@@ -1,0 +1,151 @@
+LOCUS       sequence__25_            888 bp    DNA        linear       27-APR-2022
+DEFINITION  Pseudomonas aeruginosa strain DVT401 chromosome, complete genome.
+ACCESSION   CP050335 REGION: 965303..966460
+VERSION     CP050335.1
+DBLINK      BioProject: PRJNA610040 BioSample: SAMN14271758
+KEYWORDS    .
+SOURCE      Pseudomonas aeruginosa
+  ORGANISM  Pseudomonas aeruginosa Bacteria; Proteobacteria;
+            Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae;
+            Pseudomonas.
+REFERENCE   1  (bases 1 to 1158)
+  AUTHORS   Evans,D.R., Nordstrom,H.R., Finney,A.G., Westbrook,K.J.,
+            Iovleva,A., Guerrero-Bustamante,C.A., Yassin,M.H., Shields,R.K.,
+            Doi,Y. and Van Tyne,D.
+  TITLE     Genomic characterization of P. aeruginosa-targeting bacteriophages
+            isolated from hospital wastewater
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1158)
+  AUTHORS   Evans,D.R., Nordstrom,H.R., Finney,A.G., Westbrook,K.J.,
+            Iovleva,A., Guerrero-Bustamante,C.A., Yassin,M.H., Shields,R.K.,
+            Doi,Y. and Van Tyne,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2020) Medicine - Division of Infectious Diseases,
+            University of Pittsburgh School of Medicine, Scaife Hall S855, 3550
+            Terrace Street, Pittsburgh, PA 15232, USA
+COMMENT     The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            ##Genome-Assembly-Data-START## Assembly Date          :: 2019
+            Assembly Method        :: Unicycler v. v0.4.8-beta Genome
+            Representation  :: Full Expected Final Version :: Yes Genome
+            Coverage        :: 100x Sequencing Technology  :: Oxford Nanopore
+            MinION ##Genome-Assembly-Data-END##
+            ##Genome-Annotation-Data-START## Annotation Provider
+            :: NCBI Annotation Date                   :: 03/23/2020 15:48:20
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+            Annotation Pipeline (PGAP) Annotation Method                 ::
+            Best-placed reference protein
+            set; GeneMarkS-2+ Annotation Software revision      :: 4.11
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+            repeat_region Genes (total)                     :: 6,100 CDSs
+            (total)                      :: 6,020 Genes (coding)
+            :: 5,971 CDSs (with protein)               :: 5,971 Genes (RNA)
+            :: 80 rRNAs                             :: 4, 4, 4 (5S, 16S, 23S)
+            complete rRNAs                    :: 4, 4, 4 (5S, 16S, 23S) tRNAs
+            :: 63 ncRNAs                            :: 5 Pseudo Genes (total)
+            :: 49 CDSs (without protein)            :: 49 Pseudo Genes
+            (ambiguous residues) :: 0 of 49 Pseudo Genes (frameshifted)
+            :: 21 of 49 Pseudo Genes (incomplete)         :: 29 of 49 Pseudo
+            Genes (internal stop)      :: 4 of 49 Pseudo Genes (multiple
+            problems)  :: 3 of 49 CRISPR Arrays                     :: 1
+            ##Genome-Annotation-Data-END##
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          complement(1..888)
+                     /organism="Pseudomonas aeruginosa"
+                     /mol_type="genomic DNA"
+                     /strain="DVT401"
+                     /isolation_source="wound"
+                     /host="Homo sapiens"
+                     /culture_collection="ATCC:14210"
+                     /db_xref="taxon:287"
+                     /country="USA: Pennsylvania, Pittsburgh"
+                     /lat_lon="40.4406 N 79.9959 W"
+                     /collected_by="University of Pittsburgh Medical Center"
+                     /locus_tag="source:Pseudomonas aeruginosa"
+                     /label="source:Pseudomonas aeruginosa"
+                     /ApEinfo_label="source:Pseudomonas aeruginosa"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+                     /ApEinfo_hidden=""
+     gene            1..888
+                     /gene="ispA"
+                     /locus_tag="HB725_04540"
+                     /label="HB725_04540"
+                     /ApEinfo_label="HB725_04540"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             1..888
+                     /gene="ispA"
+                     /EC_number="2.5.1.10"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:NP_252732.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="1"
+                     /transl_table="11"
+                     /product="(2E,6E)-farnesyl diphosphate synthase"
+                     /protein_id="QKR78887.1"
+                     /translation="MIAAYQARCQARVDAALDALFVAPREELQRLYEAMRYSVMNGGK
+                     RVRPLLAYAACEALGGAPQRADAAACAVELIHAYSLVHDDLPAMDDDDLRRGQPTTHR
+                     AFDEATAILAADGLQALAFEVLADTRRNPQEHAVCLEMLTRLARAAGSAGMVGGQAID
+                     LGSVGVALDQAALEVMHRHKTGALIEASVRLGALASGRAEPASLAALERYAEAIGLAF
+                     QVQDDILDVESDTATLGKTQGKDQAHNKPTYPALLGLEAAKGYALELRDQALAALDGF
+                     PPSADPLRQLARYIVERRN"
+                     /locus_tag="HB725_04540(1)"
+                     /label="HB725_04540(1)"
+                     /ApEinfo_label="HB725_04540"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            1..4
+                     /locus_tag="HB725_04545"
+                     /label="HB725_04545"
+                     /ApEinfo_label="HB725_04545"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             1..4
+                     /EC_number="3.1.11.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:NP_252731.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start="3"
+                     /transl_table="11"
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="QKR78888.1"
+                     /translation="MARKKTLDFEQSLTELQTLVERLESGELSLEESLGAFEQGIRLT
+                     RECQTSLSQAEQKVQILLERDGELSEAPFDAEGDEA"
+                     /locus_tag="HB725_04545(1)"
+                     /label="HB725_04545(1)"
+                     /ApEinfo_label="HB725_04545"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+ORIGIN
+        1 atgatcgcgg cctaccaggc gcgctgccag gcgcgcgtcg atgccgccct ggacgccctg
+       61 ttcgtcgctc cccgcgaaga actgcaacgc ctctacgagg ccatgcgcta cagcgtgatg
+      121 aacggtggca agcgggttcg cccgctgctc gcctacgccg cctgcgaggc cctcggcgga
+      181 gcgccgcagc gcgccgacgc cgcggcctgc gcggtggagc tgatccatgc ctactcgctg
+      241 gtccacgacg acctgccggc gatggacgac gacgacctgc gccgtggcca gccgaccacc
+      301 caccgggcct tcgacgaagc caccgcgatc ctcgccgccg acggcttgca ggcgctggcc
+      361 ttcgaagtgc tcgccgacac ccggcgcaat ccgcaggaac atgccgtctg tctggaaatg
+      421 ctcacccgcc tggcgcgcgc cgcaggctcc gccggcatgg tcggcggcca ggcgatcgac
+      481 ctcggctcgg tcggcgtggc cctcgaccag gcggccctgg aagtcatgca ccggcacaag
+      541 accggcgcgc tgatcgaagc cagcgtgcgc ctcggcgccc tcgccagcgg tcgcgccgag
+      601 cccgcctcgc tggccgccct ggagcgctac gccgaagcga tcggcctggc cttccaggtg
+      661 caggacgaca tcctcgacgt ggaaagcgac accgccaccc tcggcaagac ccagggcaag
+      721 gaccaggcgc acaacaagcc gacctatccc gccctgctcg gcctggaggc cgccaaaggc
+      781 tatgccctgg agctgcgcga ccaggccctg gccgccctcg acggttttcc gccgagcgcc
+      841 gacccgctgc gccaactggc ccgctacatc gtcgagcgac gcaactga 
+//
