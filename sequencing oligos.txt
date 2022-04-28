@@ -1,5 +1,0 @@
-sISPA1	<TODO>	Sequencing of pLYC73S-ispA1 
-sISPA2	<TODO>	Sequencing of pLYC73S-ispA2 
-sISPA3	<TODO>	Sequencing of pLYC73S-ispA3 
-sISPA4	<TODO>	Sequencing of pLYC73S-ispA4 
-sISPA5	<TODO>	Sequencing of pLYC73S-ispA5 
