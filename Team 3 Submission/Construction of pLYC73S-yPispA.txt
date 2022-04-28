@@ -1,0 +1,4 @@
+PCR yPispA-F/yPispA-R on YpseugDNA (pcrpdt)
+PCR o1/o2 on pLYC73S (back)
+Assemble pcrpdt, back (BsaI, pLYC73S-yPispA) 
+transform pLYC73S-yPispA (Mach1, Amp)
